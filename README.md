@@ -1,12 +1,45 @@
-# React + Vite
+# ⚛️ React Facts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app built as my **first project with Vite + React**.  
+It displays fun facts about React using reusable components and JSX.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Built with [Vite](https://vitejs.dev/) ⚡ (super-fast dev & build tool)
+- React components + JSX
+- Basic CSS styling
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧑‍💻 What I Learned
+- Setting up a React project with Vite
+- Creating and using functional components
+- Importing and displaying assets (images, SVGs)
+- Rendering content dynamically with JSX
+
+---
+
+## 🌐 Live Demo
+👉 [React Facts](https://react-facts-imissh3r.vercel.app/)  
+
+---
+
+## 📸 Screenshot
+
+**Desktop View**
+![React Facts - Desktop](./screenshots/screenshot-1.png)
+
+**Mobile/Tablet View**
+![React Facts - Mobile](./screenshots/screenshot-2.png)
+
+---
+
+## 🙏 Credits
+This project was built by following the  
+[Learn React for Free course on Scrimba](https://scrimba.com/learn-react-c0e)  
+taught by [Bob Ziroll](https://scrimba.com/@bobziroll).  
+
+---
+
+⚔️ *“Being strong isn’t just about having power, it’s about knowing how to use it.”* — Zoro
