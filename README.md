@@ -28,12 +28,12 @@ It displays fun facts about React using reusable components and JSX.
 ## 📸 Screenshot
 
 **Desktop View**
-![React Facts - Desktop]
-(./screenshots/screenshot-1.png)
+
+![React Facts - Desktop](./screenshots/screenshot-1.png)
 
 **Mobile/Tablet View**
-![React Facts - Mobile]
-(./screenshots/screenshot-2.png)
+
+![React Facts - Mobile](./screenshots/screenshot-2.png)
 
 ---
 
