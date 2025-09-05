@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  color: white;
+  font-size: 16px;
+  background-color: #282D35;
+  height: 100vh;
+}
+
+h1 {
+  margin-top: 30px;
+}
+
+.header {
+  height: 90px;
+  padding: 1.8rem 1.5rem;
+  background-color: #21222A;
+}
+
+.nav-bar {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.nav-bar-logo {
+  width: 40px;
+  margin-right: 0.5rem;
+}
+
+.nav-bar-title {
+  color: #61DAFB;
+  font-size: 22.25px;
+  font-weight: 700;
+}
+
+.main {
+  padding: 3.75rem 1.8rem;
+  background-image: url(/src/assets/react-logo-half.png);
+  background-repeat: no-repeat;
+  background-position: right 70%;
+}
+
+.main-title {
+  font-weight: bold;
+  font-size: 2.441 rem;
+  margin: 0;
+}
+
+.main-list {
+  margin-top: 45px;
+  max-width: 400px;
+}
+
+.main-list-item {
+  padding-block: 10px;
+  line-height: 18px;
+  font-size: 1rem;
+}
+
+.main-list-item::marker {
+  color: #61DAFB;
+  font-size: 1.5rem;
+}
